@@ -82,12 +82,15 @@ h1.site-title span {
 .blue {
   width: 30px;
   height: 30px;
-  border-radius: 20px;
-  /* border: linear-gradient(white, rgba(255, 255, 255, 0.168); */
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 0 5px 3px rgba(190, 190, 190, 0.5);
+  
 }
 
 .order {
-  background-color: black;
+  background-color: transparent;
   color: white;
   border-radius: 15px;
   padding: 10px 40px;
