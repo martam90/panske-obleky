@@ -75,3 +75,13 @@ h1.site-title span {
 .blue {
   background-color: rgb(68, 147, 244);
 }
+
+.white,
+.black,
+.red,
+.blue {
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+  /* border: linear-gradient(white, rgba(255, 255, 255, 0.168); */
+}
