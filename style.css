@@ -59,3 +59,19 @@ h1.site-title span {
   stroke: #000;
   stroke-width: 2;
 }
+
+.white {
+  background-color: white;
+}
+
+.black {
+  background-color: black;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: rgb(68, 147, 244);
+}
